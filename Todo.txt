@@ -1,0 +1,20 @@
+//=======*Project Requirements*==========
+1. User Registration API
+2. User login API
+3. User Auth by JWT token + cookie
+4. User Single Profile Read API
+5. All User  Profile Read API
+6. Single User Profile Update API
+7 Delete Single User API
+
+Items that are mandatory to keep in the Mongoose Schema:
+            [ firstName, lastName, NIDNumber, phoneNumber, password, bloodGroup ]
+
+//=====*Project Every Completed Step*==========
+01. All the necessary packages instalation [Done]
+02. App.js [Done]
+03. Index.js [Done]
+04. routes/Api.js [Done]
+05. Utility Features [Done]
+
+ -=NextDay [Models, Controllers & Services]
