@@ -13,7 +13,7 @@ const cookieParser = require('cookie-parser');
 const router = require('./src/routes/api');
 const app = new express();
 
-let DATABASE = "";
+let DATABASE = ""
 mongoose.connect(DATABASE,{autoIndex:true}).then((res) =>{
     console.log("Database Connected");
 }).catch((err) =>{
