@@ -1,0 +1,8 @@
+
+localhost:5050/api/v1/Registration
+localhost:5050/api/v1/login
+localhost:5050/api/v1/SingleProfileRead
+localhost:5050/api/v1/AllProfileRead
+localhost:5050/api/v1/SingleProfileUpdate
+localhost:5050/api/v1/DeleteSingleUser
+
